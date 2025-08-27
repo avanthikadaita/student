@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Avanthika.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
