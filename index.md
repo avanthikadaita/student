@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Avanthika.
+Hi! My name is Avanthika Daita.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
