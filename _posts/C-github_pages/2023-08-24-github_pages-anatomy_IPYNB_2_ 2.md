@@ -53,11 +53,11 @@ Many remote theme files are commented out, you can only have one at a time.  The
 
 ```yml
 # theme requirements
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/hacker@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
 ```
 

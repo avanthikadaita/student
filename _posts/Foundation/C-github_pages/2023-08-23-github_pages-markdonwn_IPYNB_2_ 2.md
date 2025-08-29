@@ -117,11 +117,11 @@ To select a different them you will uncomment one of the selected lines.  There 
 
 ```yml
 # theme requirements
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/hacker@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
